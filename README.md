@@ -16,6 +16,10 @@ This repository contains code for a credit card fraud detection system. The proj
   - [K-Neighbors Classifier](#k-neighbors-classifier)
 - [Conclusion](#conclusion)
 
+
+<h2>Dataset</h2>
+    <p>The dataset can be found <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?datasetId=310">here</a>.</p>
+
 ## Import Libraries
 
 This section imports the necessary libraries for data analysis and machine learning, including NumPy, Pandas, Matplotlib, Seaborn, and various scikit-learn modules.
